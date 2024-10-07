@@ -9,7 +9,7 @@ export const personalData = {
   address: 'Hajipur , Bihar, India',
   github: 'https://github.com/Prarthnesh-Bharti',
   facebook: 'https://www.instagram.com/prarthnesh',
-  linkedIn: 'https://www.linkedin.com/in/prarthnesh-bharti-084795287/',
+  linkedIn: 'https://linkedin.com/in/prarthnesh-bharti-084795287', 
   twitter: 'https://x.com/prarthnesh',
   stackOverflow: 'https://www.linkedin.com/in/prarthnesh-bharti-084795287/',
   leetcode: "https://leetcode.com/u/prarthnesh/",
