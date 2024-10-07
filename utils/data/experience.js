@@ -1,15 +1,16 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Unknown',
-    company: "Unknown",
-    duration: "Unknown"
-  },
-  {
-    id: 2,
     title: "Web Developer Intern",
     company: "Finixia Dedacons Ltd.",
     duration: "May 2024-Jul 2024"
+  },
+  {
+    id: 2,
+    title: 'Byteverse Hackathon',
+    company: "Hackslash",
+    duration: "April 2024"
+    
   },
   {
     id: 3,
