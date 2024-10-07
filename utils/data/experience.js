@@ -2,7 +2,7 @@ export const experiences = [
   {
     id: 1,
     title: "Web Developer Intern",
-    company: "Finixia Dedacons Ltd.",
+    company: "Finixia Dedacons Pvt. Ltd.",
     duration: "May 2024-Jul 2024"
   },
   {
