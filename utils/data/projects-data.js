@@ -28,7 +28,7 @@ export const projectsData = [
     {
         id: 3,
         name: 'PERSONAL PORTFOLIO',
-        description: 'I have developed a fully responsive portfolio using my frontend skill. '
+        description: 'I have developed a fully responsive portfolio using my frontend skill.',
         tools: ['HTML', 'CSS', "Javascript"],
         code: '',
         role: 'Full Stack Developer',
@@ -39,7 +39,7 @@ export const projectsData = [
     {
         id: 4,
         name: 'CRIME MANAGEMENT SYSTEM',
-        description: "My team and I developed Crime management system where I integrated google map and a emergency button. 
+        description: 'My team and I developed Crime management system where I integrated google map and a emergency button.', 
         tools: ['HTML', 'CSS', 'Javacsript'],
         code: '',
         demo: '',
